@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-28T10:27:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3698060058",
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2434887,
+          34.0521149
+        ]
+      },
+      "id": "node/3698060058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3698060060",
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243504,
+          34.0522953
+        ]
+      },
+      "id": "node/3698060060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3698060061",
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243283,
+          34.0523322
+        ]
+      },
+      "id": "node/3698060061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3698060063",
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2443594,
+          34.0528773
+        ]
+      },
+      "id": "node/3698060063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6699521863",
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243307,
+          34.0521577
+        ]
+      },
+      "id": "node/6699521863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11474148009",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2435463,
+          34.052157
+        ]
+      },
+      "id": "node/11474148009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11474148010",
+        "crossing": "uncontrolled",
+        "crossing:markings": "yes",
+        "crossing:signals": "no",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2434612,
+          34.0522648
+        ]
+      },
+      "id": "node/11474148010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11474148011",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2433696,
+          34.0523854
+        ]
+      },
+      "id": "node/11474148011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11474148012",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2430397,
+          34.0527382
+        ]
+      },
+      "id": "node/11474148012"
+    }
+  ]
+}
